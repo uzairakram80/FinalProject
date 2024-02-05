@@ -1,0 +1,11 @@
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Interface Calendar">
+<g id="Group">
+<path id="Vector" d="M2.92307 3.84668C2.67826 3.84668 2.44347 3.94393 2.27036 4.11704C2.09725 4.29015 2 4.52494 2 4.76975V13.0774C2 13.3222 2.09725 13.557 2.27036 13.7301C2.44347 13.9032 2.67826 14.0005 2.92307 14.0005H13.0769C13.3217 14.0005 13.5565 13.9032 13.7296 13.7301C13.9027 13.557 14 13.3222 14 13.0774V4.76975C14 4.52494 13.9027 4.29015 13.7296 4.11704C13.5565 3.94393 13.3217 3.84668 13.0769 3.84668H11.2307" stroke="#8C8C8C" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M2 7.53809H14" stroke="#8C8C8C" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_3" d="M4.76904 2V5.69229" stroke="#8C8C8C" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_4" d="M11.231 2V5.69229" stroke="#8C8C8C" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_5" d="M4.76904 3.84668H9.38441" stroke="#8C8C8C" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</svg>
